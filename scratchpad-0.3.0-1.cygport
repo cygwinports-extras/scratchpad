@@ -1,0 +1,5 @@
+inherit gnome2
+
+DECRIPTION="GNOME spatial text editor"
+HOMEPAGE="http://dborg.wordpress.com/scratchpad/"
+SRC_URI="http://${PN}.googlecode.com/files/${P}.tar.bz2"
